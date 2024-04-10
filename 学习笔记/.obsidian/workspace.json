@@ -94,6 +94,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f356add9fd7bf03b",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ]
       }
@@ -158,6 +166,14 @@
                 "file": "演示/演示.md"
               }
             }
+          },
+          {
+            "id": "297b3a3c84d29b88",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -176,15 +192,18 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "publish:发布更改": false
+      "publish:发布更改": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "577354ed39fb11d3",
   "lastOpenFiles": [
+    "Pasted image 20240410111826.png",
+    "演示/演示.md",
     "演示/能够悬浮预览并且能随时更改的插件.png",
     "演示/未命名.md",
     "演示/像wps的插件.png",
-    "演示/演示.md",
     "GitHub/一些基本的GitHub操作.md",
     "演示",
     "GitHub/git.md",
@@ -208,7 +227,6 @@
     "截图/Pasted image 20240408210910.png",
     "截图/Pasted image 20240408210857.png",
     "截图/Pasted image 20240408210840.png",
-    "截图/Pasted image 20240408210826.png",
     "Java/Object类.md",
     "GitHub",
     "Java/Runtime类.md",
