@@ -1,0 +1,2 @@
+是一款免费，开源的分布式版本控制系统，他是著名的Linux发明者Linus Torvalds开发的。
+和Linux确实相像

@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "0602b706f6e6782f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0df3b3d46a38f73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d835d287955ee0ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "演示/演示.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "86c5d6c2e3f5691c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "577354ed39fb11d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "演示/演示.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78b08c4947ee5b6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aca824a08d796cb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0cd29e815a3a096",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc0eb9c07df80dd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#标签使用方法",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e77d55c09642e72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c2705c7e0cda18c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "演示/演示.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "0207171d90bc1488",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d01faa85a6bf1cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d827d53b8aa4ddd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "演示/演示.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "超链接练习",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "166276f1aa3b6d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "演示/演示.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98df0daafe012b68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1610e0650cd2d0cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "演示/演示.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "577354ed39fb11d3",
+  "lastOpenFiles": [
+    "演示/能够悬浮预览并且能随时更改的插件.png",
+    "演示/未命名.md",
+    "演示/像wps的插件.png",
+    "演示/演示.md",
+    "GitHub/一些基本的GitHub操作.md",
+    "演示",
+    "GitHub/git.md",
+    "GitHub/初识GitHub.md",
+    "web/HTML基本骨架.md",
+    "截图",
+    "截图/Pasted image 20240409224748.png",
+    "web/Html.md",
+    "web/标记.md",
+    "web/标签语法.md",
+    "web/未命名.md",
+    "web/超文本.md",
+    "基于b站视频的obsidian学习笔记.md",
+    "超链接练习.md",
+    "web/未命名",
+    "web",
+    "截图/Pasted image 20240408223747.png",
+    "obsidian学习笔记.md",
+    "截图/Pasted image 20240408210935.png",
+    "截图/Pasted image 20240408210923.png",
+    "截图/Pasted image 20240408210910.png",
+    "截图/Pasted image 20240408210857.png",
+    "截图/Pasted image 20240408210840.png",
+    "截图/Pasted image 20240408210826.png",
+    "Java/Object类.md",
+    "GitHub",
+    "Java/Runtime类.md",
+    "Java/System类.md",
+    "英语单词/costume.md",
+    "英语单词/cultivate.md",
+    "英语单词/core.md",
+    "英语单词/sore.md",
+    "英语单词",
+    "Java/未命名",
+    "Java/引用数据类型.md",
+    "Java/基本数据类型.md",
+    "Markdown.md",
+    "Java",
+    "www.bilibili.com.md"
+  ]
+}
