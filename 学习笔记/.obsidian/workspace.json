@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a0df3b3d46a38f73",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d835d287955ee0ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "演示/演示.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "86c5d6c2e3f5691c",
         "type": "tabs",
         "children": [
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#标签使用方法",
+                "query": "继承",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "0207171d90bc1488",
@@ -199,48 +181,51 @@
   },
   "active": "577354ed39fb11d3",
   "lastOpenFiles": [
-    "Pasted image 20240410111826.png",
-    "演示/演示.md",
-    "演示/能够悬浮预览并且能随时更改的插件.png",
-    "演示/未命名.md",
     "演示/像wps的插件.png",
-    "GitHub/一些基本的GitHub操作.md",
+    "Java/Collection的遍历方式.md",
+    "Java/List集合常用方法以及五种遍历方式.md",
+    "web/背景复合属性.md",
+    "web/清除默认样式.md",
+    "Pasted image 20240426153206.png",
+    "Pasted image 20240426153105.png",
+    "web/盒子模型.md",
+    "Pasted image 20240426151116.png",
+    "web/复合选择器.md",
+    "web/段落标签.md",
+    "web/调试工具-谷歌浏览器.md",
+    "web/路径.md",
+    "web/视频标签.md",
+    "web/伪类选择器.md",
+    "web/伪元素选择器.md",
+    "web/下拉菜单.md",
+    "web/选择器.md",
+    "web/音频标签.md",
+    "web/占位文本.md",
+    "web/注释.md",
+    "web/显示模式.md",
+    "web/CSS特性.md",
+    "Java/集合体系结构.md",
+    "web/文本修饰属性-缩进和对齐和修饰线.md",
+    "web/画盒子.md",
+    "Pasted image 20240425224557.png",
+    "Pasted image 20240425223352.png",
+    "Pasted image 20240425222052.png",
+    "Pasted image 20240425220244.png",
+    "web/文字控制属性.md",
+    "web/无语义的布局标签.md",
+    "web/行高.md",
+    "Pasted image 20240424224002.png",
+    "Pasted image 20240424222843.png",
+    "Pasted image 20240423223330.png",
+    "从 0 开始学习 GitHub 系列(1).pdf",
+    "未命名",
+    "快捷键",
     "演示",
-    "GitHub/git.md",
-    "GitHub/初识GitHub.md",
-    "web/HTML基本骨架.md",
     "截图",
-    "截图/Pasted image 20240409224748.png",
-    "web/Html.md",
-    "web/标记.md",
-    "web/标签语法.md",
-    "web/未命名.md",
-    "web/超文本.md",
-    "基于b站视频的obsidian学习笔记.md",
-    "超链接练习.md",
     "web/未命名",
     "web",
-    "截图/Pasted image 20240408223747.png",
-    "obsidian学习笔记.md",
-    "截图/Pasted image 20240408210935.png",
-    "截图/Pasted image 20240408210923.png",
-    "截图/Pasted image 20240408210910.png",
-    "截图/Pasted image 20240408210857.png",
-    "截图/Pasted image 20240408210840.png",
-    "Java/Object类.md",
     "GitHub",
-    "Java/Runtime类.md",
-    "Java/System类.md",
-    "英语单词/costume.md",
-    "英语单词/cultivate.md",
-    "英语单词/core.md",
-    "英语单词/sore.md",
     "英语单词",
-    "Java/未命名",
-    "Java/引用数据类型.md",
-    "Java/基本数据类型.md",
-    "Markdown.md",
-    "Java",
-    "www.bilibili.com.md"
+    "Java/未命名"
   ]
 }
