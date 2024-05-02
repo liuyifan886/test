@@ -16,3 +16,14 @@ get方法得到指定索引的元素
 
 
 ### List集合的遍历方法
+- 迭代器，为继承Collection的方法，详情在[[Collection的遍历方式]]
+- 增强for，也是继承Collection的方法，详情在[[Collection的遍历方式]]
+- Lambda，继承Collection的方法，详情在[[Collection的遍历方式]]
+- 普通for循环，利用索引，get来获得并遍历
+- 列表迭代器，List独有，是一个接口Listiterator的方法，看起来似乎和迭代器没区别？新添了一个添加元素的方法
+- ![[Pasted image 20240426232017.png]]
+
+
+### 各种遍历方法的使用时机
+![[Pasted image 20240426232156.png]]
+
