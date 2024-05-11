@@ -1,0 +1,1 @@
+DCL英文是Data Control Language(数据库控制语言)，用来管理数据库用户，控制数据库的访问权限
