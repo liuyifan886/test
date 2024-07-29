@@ -1,4 +1,4 @@
-在Java中，整数有四种类型：byte，short，int ，long
+在Java中，整数有四种类型：ort，int ，long
 在底层占用字节个数：byte1个字节，short2个字节，int4个字节，long8个字节
 long已经为最大的整数，要想使用更大的整数，就需要BigInteger类出场
 
