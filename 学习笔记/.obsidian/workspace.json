@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b677862e9cec01d4",
+        "id": "d1f704fe07e4fb73",
         "type": "tabs",
         "children": [
           {
-            "id": "e45df5387d76abba",
+            "id": "34a98e585b4cb08e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/IO流.md",
+                "file": "vue/vue指令.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "75995eaa26a8a445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "演示/演示.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "vue指令"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,8 +40,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -61,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Buffer",
-                "matchingCase": true,
+                "query": "spli",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -75,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -87,22 +82,26 @@
                 "file": "演示/演示.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "演示"
             }
           },
           {
-            "id": "f356add9fd7bf03b",
+            "id": "96fdfe2b20478967",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
-              "state": {}
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 200
   },
   "right": {
     "id": "0207171d90bc1488",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演示/演示.md",
+                "file": "web/下拉菜单.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,9 @@
                 "searchQuery": "超链接练习",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "下拉菜单 的反向链接列表"
             }
           },
           {
@@ -135,10 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "演示/演示.md",
+                "file": "web/下拉菜单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "下拉菜单 的出链列表"
             }
           },
           {
@@ -149,7 +152,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -158,8 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "演示/演示.md"
-              }
+                "file": "web/下拉菜单.md"
+              },
+              "icon": "lucide-list",
+              "title": "下拉菜单 的大纲"
             }
           },
           {
@@ -167,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -192,53 +201,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "75995eaa26a8a445",
+  "active": "34a98e585b4cb08e",
   "lastOpenFiles": [
-    "演示/像wps的插件.png",
-    "演示/未命名.md",
-    "演示/能够悬浮预览并且能随时更改的插件.png",
-    "从 0 开始学习 GitHub 系列(1).pdf",
-    "GitHub/一些基本的GitHub操作.md",
-    "GitHub/初识GitHub.md",
-    "Java/IO流.md",
-    "Java/配置文件.md",
-    "Java/多线程.md",
-    "Pasted image 20240728230256.png",
-    "Java/网络编程.md",
-    "Pasted image 20240728135853.png",
-    "Java/泛型深入.md",
-    "Java/集合体系结构.md",
-    "Java/可变参数.md",
-    "Java/基本数据类型.md",
-    "Pasted image 20240727223805.png",
-    "Pasted image 20240727223749.png",
-    "Java/方法引用.md",
-    "Java/HashSet.md",
-    "Pasted image 20240726134941.png",
-    "Pasted image 20240726134739.png",
-    "Pasted image 20240724225538.png",
-    "Pasted image 20240724225528.png",
-    "Java/File.md",
-    "Pasted image 20240724121916.png",
-    "Java/Map集合常用的api.md",
-    "Java/迭代器底层源码.md",
-    "Java/不可变集合.md",
-    "Java/Collections.md",
-    "Java/双列集合的特点.md",
-    "Java/异常.md",
-    "Java/引用数据类型.md",
-    "Java/System类.md",
-    "Java/TreeMap.md",
-    "Java/Stream流.md",
-    "Java/Runtime类.md",
-    "未命名",
-    "未命名 1",
-    "~$据库原理及应用》实验8-实验指导书.doc",
-    "~$据库原理及应用》实验4-实验指导书.doc",
-    "~$据库技术及应用》实验8-实验报告.doc",
-    "~$据库技术及应用》实验4-实验报告.doc",
-    "《数据库原理及应用》实验8-实验指导书.doc",
-    "《数据库原理及应用》实验4-实验指导书.doc",
-    "《数据库技术及应用》实验8-实验报告.doc"
+    "Pasted image 20241105082534.png",
+    "Pasted image 20241105081744.png",
+    "Pasted image 20241105080308.png",
+    "JavaScript基础/数组过滤方法filter.md",
+    "JavaScript基础/数组.md",
+    "vue/vue指令.md",
+    "Pasted image 20241104213937.png",
+    "Pasted image 20241104213336.png",
+    "Pasted image 20241104212703.png",
+    "Pasted image 20241104201737.png",
+    "Pasted image 20241104131700.png",
+    "Pasted image 20241104131646.png",
+    "Pasted image 20241104114949.png",
+    "Pasted image 20241104114933.png",
+    "vue/Vue核心特性：响应式.md",
+    "vue/开发者工具.md",
+    "vue/插值表达式{{}}.md",
+    "vue/创建第一个vue实例.md",
+    "vue/vue快速上手.md",
+    "Git版本控制系统/多人协同开发.md",
+    "web/响应式网页.md",
+    "AJAX/Bootstrap弹框.md",
+    "vue",
+    "Git版本控制系统/VSCode中使用Git.md",
+    "Git版本控制系统/Git远程仓库.md",
+    "Git版本控制系统/Git的三个区域.md",
+    "Git版本控制系统/Git文件状态.md",
+    "Git版本控制系统/Git暂存区使用.md",
+    "Git版本控制系统/掌握Git仓库.md",
+    "Git版本控制系统/Git初识.md",
+    "Git版本控制系统/分支.md",
+    "Git版本控制系统/忽略文件.md",
+    "Git版本控制系统/Git回退版本.md",
+    "web/属性选择器.md",
+    "web/移动适配.md",
+    "web/空间转换，动画.md",
+    "web/SEO三大标签.md",
+    "Git版本控制系统",
+    "Webpack",
+    "Node.js",
+    "AJAX/AJAX进阶",
+    "AJAX/AJAX原理",
+    "AJAX",
+    "JavaScript基础/高阶技巧",
+    "JavaScript基础/深入面向对象",
+    "JavaScript基础/内置构造函数"
   ]
 }
